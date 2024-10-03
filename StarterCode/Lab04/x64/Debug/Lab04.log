@@ -1,0 +1,6 @@
+﻿  Lab04.cpp
+\\kc.umkc.edu\kc-users\home\a\aagcgg\Desktop\Labs\lab04\StarterCode\Lab04\Functions.h(53,13): warning C4305: '=': truncation from 'double' to 'float'
+\\kc.umkc.edu\kc-users\home\a\aagcgg\Desktop\Labs\lab04\StarterCode\Lab04\Functions.h(56,13): warning C4305: '=': truncation from 'double' to 'float'
+\\kc.umkc.edu\kc-users\home\a\aagcgg\Desktop\Labs\lab04\StarterCode\Lab04\Functions.h(59,13): warning C4305: '=': truncation from 'double' to 'float'
+\\kc.umkc.edu\kc-users\home\a\aagcgg\Desktop\Labs\lab04\StarterCode\Lab04\Functions.h(97,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab04.vcxproj -> \\kc.umkc.edu\kc-users\home\a\aagcgg\Desktop\Labs\lab04\StarterCode\x64\Debug\Lab04.exe
